@@ -4,4 +4,6 @@ abstract class SignUpView{
 
   void onSignUpFailed();
 
+  void show();
+
 }
